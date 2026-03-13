@@ -19,3 +19,5 @@
 4. Instal·lar Django: pip install django
 5. Aplicar migracions: python manage.py migrate
 6. Executar servidor: python manage.py runserver
+
+Quan demana l'usuari i la contrasenya has d'introduir: 
