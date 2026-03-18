@@ -21,3 +21,4 @@
 6. Executar servidor: python manage.py runserver
 
 Quan demana l'usuari i la contrasenya has d'introduir: 
+admin i admin
