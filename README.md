@@ -13,13 +13,14 @@ Aquesta és una aplicació web desenvolupada amb **Django** per a la gestió de 
    ```bash
    git clone [https://github.com/el-teu-usuari/dakkar-car-rental.git](https://github.com/el-teu-usuari/dakkar-car-rental.git)
    cd dakkar-car-rental# digi_proj
-2. Crear entorn virtual: python -m venv venv
+2. Entrem al terminal: cd digi_proj-main
+3. Crear entorn virtual: python -m venv venv
 3. Activar entorn en Windows: .\venv\Scripts\activate
 3. Activar entorn en Linux o macOS: source venv/bin/activate
-3. Instal·lar Django: pip install django
-4. Aplicar migracions: python manage.py migrate
-5. python -m pip install Pillow
-6. Executar servidor: python manage.py runserver
+4. Instal·lar Django: pip install django
+5. Aplicar migracions: python manage.py migrate
+6. python -m pip install Pillow
+7. Executar servidor: python manage.py runserver
 
 Quan demana l'usuari i la contrasenya has d'introduir: 
 admin i admin
