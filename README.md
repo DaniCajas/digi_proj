@@ -1,6 +1,6 @@
 # 🚗 Dakkar Car Rental - Sistema de Gestió
 
-[cite_start]Aquesta és una aplicació web desenvolupada amb **Django** per a la gestió de la flota, clients i reserves de Dakkar Car Rental, una empresa de lloguer de cotxes a Curaçao.
+Aquesta és una aplicació web desenvolupada amb **Django** per a la gestió de la flota, clients i reserves de Dakkar Car Rental, una empresa de lloguer de cotxes a Curaçao.
 
 ## 📋 Requisits previs
 - Python 3.10+
