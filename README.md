@@ -16,8 +16,9 @@ Aquesta és una aplicació web desenvolupada amb **Django** per a la gestió de 
 2. Crear entorn virtual: python -m venv venv
 3. Activar entorn en Windows: .\venv\Scripts\activate
 3. Activar entorn en Linux o macOS: source venv/bin/activate
-4. Instal·lar Django: pip install django
-5. Aplicar migracions: python manage.py migrate
+3. Instal·lar Django: pip install django
+4. Aplicar migracions: python manage.py migrate
+5. python -m pip install Pillow
 6. Executar servidor: python manage.py runserver
 
 Quan demana l'usuari i la contrasenya has d'introduir: 
